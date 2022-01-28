@@ -1,17 +1,32 @@
 {
   "files": {
-    "main.css": "/preschool_stand/static/css/main.ae150926.chunk.css",
-    "main.js": "/preschool_stand/static/js/main.1120960e.chunk.js",
-    "main.js.map": "/preschool_stand/static/js/main.1120960e.chunk.js.map",
-    "runtime-main.js": "/preschool_stand/static/js/runtime-main.f366416f.js",
-    "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.f366416f.js.map",
+    "main.css": "/preschool_stand/static/css/main.395549c4.chunk.css",
+    "main.js": "/preschool_stand/static/js/main.90abeb9e.chunk.js",
+    "main.js.map": "/preschool_stand/static/js/main.90abeb9e.chunk.js.map",
+    "runtime-main.js": "/preschool_stand/static/js/runtime-main.0de1edad.js",
+    "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.0de1edad.js.map",
     "static/js/2.4f43ad70.chunk.js": "/preschool_stand/static/js/2.4f43ad70.chunk.js",
     "static/js/2.4f43ad70.chunk.js.map": "/preschool_stand/static/js/2.4f43ad70.chunk.js.map",
-    "static/js/3.5377e939.chunk.js": "/preschool_stand/static/js/3.5377e939.chunk.js",
-    "static/js/3.5377e939.chunk.js.map": "/preschool_stand/static/js/3.5377e939.chunk.js.map",
+    "static/js/3.fa905c79.chunk.js": "/preschool_stand/static/js/3.fa905c79.chunk.js",
+    "static/js/3.fa905c79.chunk.js.map": "/preschool_stand/static/js/3.fa905c79.chunk.js.map",
     "index.html": "/preschool_stand/index.html",
-    "static/css/main.ae150926.chunk.css.map": "/preschool_stand/static/css/main.ae150926.chunk.css.map",
+    "static/css/main.395549c4.chunk.css.map": "/preschool_stand/static/css/main.395549c4.chunk.css.map",
     "static/js/2.4f43ad70.chunk.js.LICENSE.txt": "/preschool_stand/static/js/2.4f43ad70.chunk.js.LICENSE.txt",
+    "static/media/DO_3-4_21_1_10.24fe69ba.jpg": "/preschool_stand/static/media/DO_3-4_21_1_10.24fe69ba.jpg",
+    "static/media/DO_3-4_21_1_11.e572c96d.jpg": "/preschool_stand/static/media/DO_3-4_21_1_11.e572c96d.jpg",
+    "static/media/DO_3-4_21_1_12.fc8fc203.jpg": "/preschool_stand/static/media/DO_3-4_21_1_12.fc8fc203.jpg",
+    "static/media/DO_3-4_21_1_13.0b624875.jpg": "/preschool_stand/static/media/DO_3-4_21_1_13.0b624875.jpg",
+    "static/media/DO_3-4_21_1_14.ccef3dfd.jpg": "/preschool_stand/static/media/DO_3-4_21_1_14.ccef3dfd.jpg",
+    "static/media/DO_3-4_21_1_15.c4951c77.jpg": "/preschool_stand/static/media/DO_3-4_21_1_15.c4951c77.jpg",
+    "static/media/DO_3-4_21_1_9.3acd3cef.jpg": "/preschool_stand/static/media/DO_3-4_21_1_9.3acd3cef.jpg",
+    "static/media/DO_3-4_22_2_1.fc6646c7.png": "/preschool_stand/static/media/DO_3-4_22_2_1.fc6646c7.png",
+    "static/media/DO_3-4_22_2_2.9500f353.png": "/preschool_stand/static/media/DO_3-4_22_2_2.9500f353.png",
+    "static/media/DO_3-4_22_2_3.7d5ad98d.png": "/preschool_stand/static/media/DO_3-4_22_2_3.7d5ad98d.png",
+    "static/media/DO_3-4_22_2_4.d7b2671d.png": "/preschool_stand/static/media/DO_3-4_22_2_4.d7b2671d.png",
+    "static/media/DO_3-4_22_2_5.720ae862.png": "/preschool_stand/static/media/DO_3-4_22_2_5.720ae862.png",
+    "static/media/DO_3-4_22_2_6.24aa76d0.png": "/preschool_stand/static/media/DO_3-4_22_2_6.24aa76d0.png",
+    "static/media/DO_3-4_22_2_7.71ee141a.png": "/preschool_stand/static/media/DO_3-4_22_2_7.71ee141a.png",
+    "static/media/DO_3-4_22_2_8.88a64fe6.png": "/preschool_stand/static/media/DO_3-4_22_2_8.88a64fe6.png",
     "static/media/alphabet.003b440f.svg": "/preschool_stand/static/media/alphabet.003b440f.svg",
     "static/media/balls.70be3c0b.png": "/preschool_stand/static/media/balls.70be3c0b.png",
     "static/media/bears.d778cd84.png": "/preschool_stand/static/media/bears.d778cd84.png",
@@ -34,9 +49,9 @@
     "static/media/wellDone_textInCloud.0123ac5e.svg": "/preschool_stand/static/media/wellDone_textInCloud.0123ac5e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f366416f.js",
+    "static/js/runtime-main.0de1edad.js",
     "static/js/2.4f43ad70.chunk.js",
-    "static/css/main.ae150926.chunk.css",
-    "static/js/main.1120960e.chunk.js"
+    "static/css/main.395549c4.chunk.css",
+    "static/js/main.90abeb9e.chunk.js"
   ]
 }
