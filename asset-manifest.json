@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/preschool_stand/static/css/main.395549c4.chunk.css",
-    "main.js": "/preschool_stand/static/js/main.90abeb9e.chunk.js",
-    "main.js.map": "/preschool_stand/static/js/main.90abeb9e.chunk.js.map",
+    "main.css": "/preschool_stand/static/css/main.28822000.chunk.css",
+    "main.js": "/preschool_stand/static/js/main.5fdf0fc0.chunk.js",
+    "main.js.map": "/preschool_stand/static/js/main.5fdf0fc0.chunk.js.map",
     "runtime-main.js": "/preschool_stand/static/js/runtime-main.0de1edad.js",
     "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.0de1edad.js.map",
     "static/js/2.4f43ad70.chunk.js": "/preschool_stand/static/js/2.4f43ad70.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.fa905c79.chunk.js": "/preschool_stand/static/js/3.fa905c79.chunk.js",
     "static/js/3.fa905c79.chunk.js.map": "/preschool_stand/static/js/3.fa905c79.chunk.js.map",
     "index.html": "/preschool_stand/index.html",
-    "static/css/main.395549c4.chunk.css.map": "/preschool_stand/static/css/main.395549c4.chunk.css.map",
+    "static/css/main.28822000.chunk.css.map": "/preschool_stand/static/css/main.28822000.chunk.css.map",
     "static/js/2.4f43ad70.chunk.js.LICENSE.txt": "/preschool_stand/static/js/2.4f43ad70.chunk.js.LICENSE.txt",
     "static/media/DO_3-4_21_1_10.24fe69ba.jpg": "/preschool_stand/static/media/DO_3-4_21_1_10.24fe69ba.jpg",
     "static/media/DO_3-4_21_1_11.e572c96d.jpg": "/preschool_stand/static/media/DO_3-4_21_1_11.e572c96d.jpg",
@@ -51,7 +51,7 @@
   "entrypoints": [
     "static/js/runtime-main.0de1edad.js",
     "static/js/2.4f43ad70.chunk.js",
-    "static/css/main.395549c4.chunk.css",
-    "static/js/main.90abeb9e.chunk.js"
+    "static/css/main.28822000.chunk.css",
+    "static/js/main.5fdf0fc0.chunk.js"
   ]
 }
