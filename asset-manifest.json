@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/preschool_stand/static/css/main.28822000.chunk.css",
-    "main.js": "/preschool_stand/static/js/main.5fdf0fc0.chunk.js",
-    "main.js.map": "/preschool_stand/static/js/main.5fdf0fc0.chunk.js.map",
+    "main.css": "/preschool_stand/static/css/main.ee78f8d9.chunk.css",
+    "main.js": "/preschool_stand/static/js/main.4737c70c.chunk.js",
+    "main.js.map": "/preschool_stand/static/js/main.4737c70c.chunk.js.map",
     "runtime-main.js": "/preschool_stand/static/js/runtime-main.0de1edad.js",
     "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.0de1edad.js.map",
     "static/js/2.4f43ad70.chunk.js": "/preschool_stand/static/js/2.4f43ad70.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.fa905c79.chunk.js": "/preschool_stand/static/js/3.fa905c79.chunk.js",
     "static/js/3.fa905c79.chunk.js.map": "/preschool_stand/static/js/3.fa905c79.chunk.js.map",
     "index.html": "/preschool_stand/index.html",
-    "static/css/main.28822000.chunk.css.map": "/preschool_stand/static/css/main.28822000.chunk.css.map",
+    "static/css/main.ee78f8d9.chunk.css.map": "/preschool_stand/static/css/main.ee78f8d9.chunk.css.map",
     "static/js/2.4f43ad70.chunk.js.LICENSE.txt": "/preschool_stand/static/js/2.4f43ad70.chunk.js.LICENSE.txt",
     "static/media/DO_3-4_21_1_10.24fe69ba.jpg": "/preschool_stand/static/media/DO_3-4_21_1_10.24fe69ba.jpg",
     "static/media/DO_3-4_21_1_11.e572c96d.jpg": "/preschool_stand/static/media/DO_3-4_21_1_11.e572c96d.jpg",
@@ -33,7 +33,11 @@
     "static/media/cars.bf82bcf5.png": "/preschool_stand/static/media/cars.bf82bcf5.png",
     "static/media/check.8a9527ec.svg": "/preschool_stand/static/media/check.8a9527ec.svg",
     "static/media/duck.b2e17eee.png": "/preschool_stand/static/media/duck.b2e17eee.png",
+    "static/media/elephant.e7b691e0.png": "/preschool_stand/static/media/elephant.e7b691e0.png",
+    "static/media/giraffe.3004f92e.png": "/preschool_stand/static/media/giraffe.3004f92e.png",
+    "static/media/lake.c6698294.png": "/preschool_stand/static/media/lake.c6698294.png",
     "static/media/leftArrow.0004fadd.svg": "/preschool_stand/static/media/leftArrow.0004fadd.svg",
+    "static/media/lion.bfd1ad2d.png": "/preschool_stand/static/media/lion.bfd1ad2d.png",
     "static/media/lion.dbd8c13b.png": "/preschool_stand/static/media/lion.dbd8c13b.png",
     "static/media/monkey.0cf4077b.png": "/preschool_stand/static/media/monkey.0cf4077b.png",
     "static/media/motivationCarrot_tryAgain.b12d5e7a.svg": "/preschool_stand/static/media/motivationCarrot_tryAgain.b12d5e7a.svg",
@@ -42,16 +46,18 @@
     "static/media/pegTop.9ba37d6e.png": "/preschool_stand/static/media/pegTop.9ba37d6e.png",
     "static/media/question_textHeader.d24a3cff.svg": "/preschool_stand/static/media/question_textHeader.d24a3cff.svg",
     "static/media/reset.3bab4926.svg": "/preschool_stand/static/media/reset.3bab4926.svg",
+    "static/media/rhino.b7c6332b.png": "/preschool_stand/static/media/rhino.b7c6332b.png",
     "static/media/rightArrow.5880dea5.svg": "/preschool_stand/static/media/rightArrow.5880dea5.svg",
     "static/media/sound_textHeader.ce297dc9.svg": "/preschool_stand/static/media/sound_textHeader.ce297dc9.svg",
     "static/media/tiger.7bc5058d.png": "/preschool_stand/static/media/tiger.7bc5058d.png",
-    "static/media/tryAgain_textInCloud.9ca6957a.svg": "/preschool_stand/static/media/tryAgain_textInCloud.9ca6957a.svg",
-    "static/media/wellDone_textInCloud.0123ac5e.svg": "/preschool_stand/static/media/wellDone_textInCloud.0123ac5e.svg"
+    "static/media/tiger.e8f89d51.png": "/preschool_stand/static/media/tiger.e8f89d51.png",
+    "static/media/tryAgain_textInCloud.29495567.svg": "/preschool_stand/static/media/tryAgain_textInCloud.29495567.svg",
+    "static/media/wellDone_textInCloud.8bd4734a.svg": "/preschool_stand/static/media/wellDone_textInCloud.8bd4734a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0de1edad.js",
     "static/js/2.4f43ad70.chunk.js",
-    "static/css/main.28822000.chunk.css",
-    "static/js/main.5fdf0fc0.chunk.js"
+    "static/css/main.ee78f8d9.chunk.css",
+    "static/js/main.4737c70c.chunk.js"
   ]
 }
