@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/preschool_stand/static/css/main.dfec319e.chunk.css",
-    "main.js": "/preschool_stand/static/js/main.e169c499.chunk.js",
-    "main.js.map": "/preschool_stand/static/js/main.e169c499.chunk.js.map",
+    "main.js": "/preschool_stand/static/js/main.1d3b2a61.chunk.js",
+    "main.js.map": "/preschool_stand/static/js/main.1d3b2a61.chunk.js.map",
     "runtime-main.js": "/preschool_stand/static/js/runtime-main.4be82ba4.js",
     "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.4be82ba4.js.map",
     "static/js/2.4f43ad70.chunk.js": "/preschool_stand/static/js/2.4f43ad70.chunk.js",
@@ -51,6 +51,7 @@
     "static/media/question_textHeader.d24a3cff.svg": "/preschool_stand/static/media/question_textHeader.d24a3cff.svg",
     "static/media/reset.3bab4926.svg": "/preschool_stand/static/media/reset.3bab4926.svg",
     "static/media/rhino.b7c6332b.png": "/preschool_stand/static/media/rhino.b7c6332b.png",
+    "static/media/rightAnswer.99842472.png": "/preschool_stand/static/media/rightAnswer.99842472.png",
     "static/media/rightArrow.5880dea5.svg": "/preschool_stand/static/media/rightArrow.5880dea5.svg",
     "static/media/sound_textHeader.ce297dc9.svg": "/preschool_stand/static/media/sound_textHeader.ce297dc9.svg",
     "static/media/tiger.7bc5058d.png": "/preschool_stand/static/media/tiger.7bc5058d.png",
@@ -62,6 +63,6 @@
     "static/js/runtime-main.4be82ba4.js",
     "static/js/2.4f43ad70.chunk.js",
     "static/css/main.dfec319e.chunk.css",
-    "static/js/main.e169c499.chunk.js"
+    "static/js/main.1d3b2a61.chunk.js"
   ]
 }
