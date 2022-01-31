@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/preschool_stand/static/css/main.92471be8.chunk.css",
-    "main.js": "/preschool_stand/static/js/main.a8dc9834.chunk.js",
-    "main.js.map": "/preschool_stand/static/js/main.a8dc9834.chunk.js.map",
+    "main.js": "/preschool_stand/static/js/main.5b165bf9.chunk.js",
+    "main.js.map": "/preschool_stand/static/js/main.5b165bf9.chunk.js.map",
     "runtime-main.js": "/preschool_stand/static/js/runtime-main.508d5b3d.js",
     "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.508d5b3d.js.map",
     "static/js/2.4f43ad70.chunk.js": "/preschool_stand/static/js/2.4f43ad70.chunk.js",
@@ -66,6 +66,6 @@
     "static/js/runtime-main.508d5b3d.js",
     "static/js/2.4f43ad70.chunk.js",
     "static/css/main.92471be8.chunk.css",
-    "static/js/main.a8dc9834.chunk.js"
+    "static/js/main.5b165bf9.chunk.js"
   ]
 }
