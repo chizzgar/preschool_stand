@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/preschool_stand/static/css/main.a014fb25.chunk.css",
-    "main.js": "/preschool_stand/static/js/main.88f707d4.chunk.js",
-    "main.js.map": "/preschool_stand/static/js/main.88f707d4.chunk.js.map",
-    "runtime-main.js": "/preschool_stand/static/js/runtime-main.15e05635.js",
-    "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.15e05635.js.map",
+    "main.css": "/preschool_stand/static/css/main.c4e58e7b.chunk.css",
+    "main.js": "/preschool_stand/static/js/main.f0ceddd7.chunk.js",
+    "main.js.map": "/preschool_stand/static/js/main.f0ceddd7.chunk.js.map",
+    "runtime-main.js": "/preschool_stand/static/js/runtime-main.1aa7098e.js",
+    "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.1aa7098e.js.map",
     "static/js/2.4f43ad70.chunk.js": "/preschool_stand/static/js/2.4f43ad70.chunk.js",
     "static/js/2.4f43ad70.chunk.js.map": "/preschool_stand/static/js/2.4f43ad70.chunk.js.map",
-    "static/js/3.d6fcef0b.chunk.js": "/preschool_stand/static/js/3.d6fcef0b.chunk.js",
-    "static/js/3.d6fcef0b.chunk.js.map": "/preschool_stand/static/js/3.d6fcef0b.chunk.js.map",
+    "static/js/3.e22f983b.chunk.js": "/preschool_stand/static/js/3.e22f983b.chunk.js",
+    "static/js/3.e22f983b.chunk.js.map": "/preschool_stand/static/js/3.e22f983b.chunk.js.map",
     "index.html": "/preschool_stand/index.html",
-    "static/css/main.a014fb25.chunk.css.map": "/preschool_stand/static/css/main.a014fb25.chunk.css.map",
+    "static/css/main.c4e58e7b.chunk.css.map": "/preschool_stand/static/css/main.c4e58e7b.chunk.css.map",
     "static/js/2.4f43ad70.chunk.js.LICENSE.txt": "/preschool_stand/static/js/2.4f43ad70.chunk.js.LICENSE.txt",
     "static/media/DO_3-4_21_1_10.24fe69ba.jpg": "/preschool_stand/static/media/DO_3-4_21_1_10.24fe69ba.jpg",
     "static/media/DO_3-4_21_1_11.e572c96d.jpg": "/preschool_stand/static/media/DO_3-4_21_1_11.e572c96d.jpg",
@@ -73,9 +73,9 @@
     "static/media/wellDone_textInCloud.8bd4734a.svg": "/preschool_stand/static/media/wellDone_textInCloud.8bd4734a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15e05635.js",
+    "static/js/runtime-main.1aa7098e.js",
     "static/js/2.4f43ad70.chunk.js",
-    "static/css/main.a014fb25.chunk.css",
-    "static/js/main.88f707d4.chunk.js"
+    "static/css/main.c4e58e7b.chunk.css",
+    "static/js/main.f0ceddd7.chunk.js"
   ]
 }
