@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/preschool_stand/static/css/main.c4e58e7b.chunk.css",
-    "main.js": "/preschool_stand/static/js/main.f0ceddd7.chunk.js",
-    "main.js.map": "/preschool_stand/static/js/main.f0ceddd7.chunk.js.map",
+    "main.css": "/preschool_stand/static/css/main.7d7979ed.chunk.css",
+    "main.js": "/preschool_stand/static/js/main.45c6e2b4.chunk.js",
+    "main.js.map": "/preschool_stand/static/js/main.45c6e2b4.chunk.js.map",
     "runtime-main.js": "/preschool_stand/static/js/runtime-main.1aa7098e.js",
     "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.1aa7098e.js.map",
     "static/js/2.4f43ad70.chunk.js": "/preschool_stand/static/js/2.4f43ad70.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e22f983b.chunk.js": "/preschool_stand/static/js/3.e22f983b.chunk.js",
     "static/js/3.e22f983b.chunk.js.map": "/preschool_stand/static/js/3.e22f983b.chunk.js.map",
     "index.html": "/preschool_stand/index.html",
-    "static/css/main.c4e58e7b.chunk.css.map": "/preschool_stand/static/css/main.c4e58e7b.chunk.css.map",
+    "static/css/main.7d7979ed.chunk.css.map": "/preschool_stand/static/css/main.7d7979ed.chunk.css.map",
     "static/js/2.4f43ad70.chunk.js.LICENSE.txt": "/preschool_stand/static/js/2.4f43ad70.chunk.js.LICENSE.txt",
     "static/media/DO_3-4_21_1_10.24fe69ba.jpg": "/preschool_stand/static/media/DO_3-4_21_1_10.24fe69ba.jpg",
     "static/media/DO_3-4_21_1_11.e572c96d.jpg": "/preschool_stand/static/media/DO_3-4_21_1_11.e572c96d.jpg",
@@ -32,6 +32,7 @@
     "static/media/bear.c44feb90.png": "/preschool_stand/static/media/bear.c44feb90.png",
     "static/media/bearShadow.a67a087b.png": "/preschool_stand/static/media/bearShadow.a67a087b.png",
     "static/media/bears.d778cd84.png": "/preschool_stand/static/media/bears.d778cd84.png",
+    "static/media/bush.3d767253.png": "/preschool_stand/static/media/bush.3d767253.png",
     "static/media/cars.bf82bcf5.png": "/preschool_stand/static/media/cars.bf82bcf5.png",
     "static/media/check.8a9527ec.svg": "/preschool_stand/static/media/check.8a9527ec.svg",
     "static/media/chrono_1.ab8f6208.png": "/preschool_stand/static/media/chrono_1.ab8f6208.png",
@@ -63,19 +64,22 @@
     "static/media/rhino.b7c6332b.png": "/preschool_stand/static/media/rhino.b7c6332b.png",
     "static/media/rightAnswer.99842472.png": "/preschool_stand/static/media/rightAnswer.99842472.png",
     "static/media/rightArrow.5880dea5.svg": "/preschool_stand/static/media/rightArrow.5880dea5.svg",
+    "static/media/rock.84e444af.png": "/preschool_stand/static/media/rock.84e444af.png",
     "static/media/seal.6be13d56.png": "/preschool_stand/static/media/seal.6be13d56.png",
     "static/media/sealShadow.3b90499f.png": "/preschool_stand/static/media/sealShadow.3b90499f.png",
     "static/media/sound_textHeader.ce297dc9.svg": "/preschool_stand/static/media/sound_textHeader.ce297dc9.svg",
+    "static/media/stone.5e12660a.png": "/preschool_stand/static/media/stone.5e12660a.png",
     "static/media/tiger.7bc5058d.png": "/preschool_stand/static/media/tiger.7bc5058d.png",
     "static/media/tiger.e8f89d51.png": "/preschool_stand/static/media/tiger.e8f89d51.png",
     "static/media/toy.aa6e771e.png": "/preschool_stand/static/media/toy.aa6e771e.png",
+    "static/media/tree.1a0e17e9.png": "/preschool_stand/static/media/tree.1a0e17e9.png",
     "static/media/tryAgain_textInCloud.29495567.svg": "/preschool_stand/static/media/tryAgain_textInCloud.29495567.svg",
     "static/media/wellDone_textInCloud.8bd4734a.svg": "/preschool_stand/static/media/wellDone_textInCloud.8bd4734a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1aa7098e.js",
     "static/js/2.4f43ad70.chunk.js",
-    "static/css/main.c4e58e7b.chunk.css",
-    "static/js/main.f0ceddd7.chunk.js"
+    "static/css/main.7d7979ed.chunk.css",
+    "static/js/main.45c6e2b4.chunk.js"
   ]
 }
