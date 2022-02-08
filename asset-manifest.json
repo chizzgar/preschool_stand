@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/preschool_stand/static/css/main.81662202.chunk.css",
-    "main.js": "/preschool_stand/static/js/main.84bed8dd.chunk.js",
-    "main.js.map": "/preschool_stand/static/js/main.84bed8dd.chunk.js.map",
+    "main.css": "/preschool_stand/static/css/main.441e3ba0.chunk.css",
+    "main.js": "/preschool_stand/static/js/main.7ec49b3d.chunk.js",
+    "main.js.map": "/preschool_stand/static/js/main.7ec49b3d.chunk.js.map",
     "runtime-main.js": "/preschool_stand/static/js/runtime-main.fc9bd79a.js",
     "runtime-main.js.map": "/preschool_stand/static/js/runtime-main.fc9bd79a.js.map",
     "static/js/2.089bf264.chunk.js": "/preschool_stand/static/js/2.089bf264.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.579a7e76.chunk.js": "/preschool_stand/static/js/3.579a7e76.chunk.js",
     "static/js/3.579a7e76.chunk.js.map": "/preschool_stand/static/js/3.579a7e76.chunk.js.map",
     "index.html": "/preschool_stand/index.html",
-    "static/css/main.81662202.chunk.css.map": "/preschool_stand/static/css/main.81662202.chunk.css.map",
+    "static/css/main.441e3ba0.chunk.css.map": "/preschool_stand/static/css/main.441e3ba0.chunk.css.map",
     "static/js/2.089bf264.chunk.js.LICENSE.txt": "/preschool_stand/static/js/2.089bf264.chunk.js.LICENSE.txt",
     "static/media/001-title.794071d9.mp3": "/preschool_stand/static/media/001-title.794071d9.mp3",
     "static/media/002-wardrobe.899c9f74.mp3": "/preschool_stand/static/media/002-wardrobe.899c9f74.mp3",
@@ -89,6 +89,7 @@
     "static/media/owlShadow.f77684e3.png": "/preschool_stand/static/media/owlShadow.f77684e3.png",
     "static/media/parrotHelp.e4600232.svg": "/preschool_stand/static/media/parrotHelp.e4600232.svg",
     "static/media/pegTop.9ba37d6e.png": "/preschool_stand/static/media/pegTop.9ba37d6e.png",
+    "static/media/Task15.css": "/preschool_stand/static/media/question_back_img.ee33e31d.png",
     "static/media/question_textHeader.d24a3cff.svg": "/preschool_stand/static/media/question_textHeader.d24a3cff.svg",
     "static/media/rabbit.fd330766.png": "/preschool_stand/static/media/rabbit.fd330766.png",
     "static/media/rabbitShadow.bc58d6cd.png": "/preschool_stand/static/media/rabbitShadow.bc58d6cd.png",
@@ -115,7 +116,7 @@
   "entrypoints": [
     "static/js/runtime-main.fc9bd79a.js",
     "static/js/2.089bf264.chunk.js",
-    "static/css/main.81662202.chunk.css",
-    "static/js/main.84bed8dd.chunk.js"
+    "static/css/main.441e3ba0.chunk.css",
+    "static/js/main.7ec49b3d.chunk.js"
   ]
 }
